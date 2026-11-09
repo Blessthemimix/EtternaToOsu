@@ -16,7 +16,7 @@ A lightweight Python script that automatically converts StepMania/Etterna chart 
    cd EtternaToOsu
 
     Configure the script:
-    Open etterna2osu.py in any text editor and update the variables at the top of the file:
+    Open in any text editor and update the variables at the top of the file:
 
         SOURCE_ZIP: The path to your Etterna song pack .zip.
 
@@ -25,7 +25,7 @@ A lightweight Python script that automatically converts StepMania/Etterna chart 
         YOUR_OSU_USERNAME: Your exact osu! username (required for uploading to BSS).
 
     And Run the script:
-        python converter.py
+        python etterna2osu.py
 
     The script will extract the archive, locate the charts, convert them, and output .osz files into your designated output folder. Double-click the .osz files to import them into osu!.
 
