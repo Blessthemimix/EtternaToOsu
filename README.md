@@ -16,7 +16,7 @@ A lightweight Python script that automatically converts StepMania/Etterna chart 
    cd EtternaToOsu
 
     Configure the script:
-    Open converter.py in any text editor and update the variables at the top of the file:
+    Open etterna2osu.py in any text editor and update the variables at the top of the file:
 
         SOURCE_ZIP: The path to your Etterna song pack .zip.
 
